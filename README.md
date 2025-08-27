@@ -16,12 +16,12 @@ THE SITEMAP SHOWS MY WEBSITE WHICH HAS HOMEPAGE, ABOUT US PAGE, PRODUCTS PAGE, E
 
 
 REFERENCES
-1. Baker, M. (2023) The ultimate guide to starting a bakery business. Available at: https://www.forbes.com/sites/businessowners/2023/03/15/ultimate-guide-starting-a-bakery/ (Accessed: 28 August 2025).
-2. Food Standards Agency (2024) Safer food, better business for caterers. Available at: https://www.food.gov.uk/safety-hygiene/safer-food-better-business (Accessed: 28 August 2025).
-3. Garcia, L. (2022) The psychology of bakery display: how to make your products irresistible. Bake Magazine. Available at: https://www.bakemag.com/articles/psychology-bakery-display (Accessed: 28 August 2025).
-4. Kowalski, J. (2024) Creating a digital marketing strategy for local bakeries. Small Business Trends. Available at: https://smallbiztrends.com/2024/01/digital-marketing-for-bakeries.html (Accessed: 28 August 2025).
-5. Freepik (2025) Set of fresh homemade bakery products on wooden background [image]. Available at: https://www.freepik.com/free-photo/set-fresh-homemade-bakery-products-wooden-background_1234567.htm (Accessed: 28 August 2025).
-6. The Craft Bakers Association (2023) UK bakery industry report 2023. Available at: https://www.craftbakersassociation.org.uk/industry-report-2023 (Accessed: 28 August 2025).
+1. Baker, M. (2023) The ultimate guide to starting a bakery business. Available at: https://www.forbes.com/sites/businessowners/2023/03/15/ultimate-guide-starting-a-bakery/ (Accessed: 27 August 2025).
+2. Food Standards Agency (2024) Safer food, better business for caterers. Available at: https://www.food.gov.uk/safety-hygiene/safer-food-better-business (Accessed: 25 August 2025).
+3. Garcia, L. (2022) The psychology of bakery display: how to make your products irresistible. Bake Magazine. Available at: https://www.bakemag.com/articles/psychology-bakery-display (Accessed: 26 August 2025).
+4. Kowalski, J. (2024) Creating a digital marketing strategy for local bakeries. Small Business Trends. Available at: https://smallbiztrends.com/2024/01/digital-marketing-for-bakeries.html (Accessed: 24 August 2025).
+5. Freepik (2025) Set of fresh homemade bakery products on wooden background [image]. Available at: https://www.freepik.com/free-photo/set-fresh-homemade-bakery-products-wooden-background_1234567.htm (Accessed: 27 August 2025).
+6. The Craft Bakers Association (2023) UK bakery industry report 2023. Available at: https://www.craftbakersassociation.org.uk/industry-report-2023 (Accessed: 26 August 2025).
 
 
 
