@@ -14,6 +14,15 @@ SITEMAP VISUAL REPRESENTATION
 <img width="1919" height="1019" alt="Screenshot 2025-08-27 202006" src="https://github.com/user-attachments/assets/e0905747-6b62-47b9-a06c-e41fd9af1572" />
 THE SITEMAP SHOWS MY WEBSITE WHICH HAS HOMEPAGE, ABOUT US PAGE, PRODUCTS PAGE, ENQUIRY PAGE AND CONTACT PAGE.
 
+SCREENSHOT EVIDENCE OF RESPONSIVENESS
+DESKTOP
+<img width="1919" height="913" alt="Screenshot 2025-09-26 225737" src="https://github.com/user-attachments/assets/a02746ee-d8a6-485f-950b-e22baf724597" />
+MOBILE
+<img width="1913" height="913" alt="Screenshot 2025-09-26 225813" src="https://github.com/user-attachments/assets/a06ec1bf-8f7c-41c4-9514-f736ebb7a1e0" />
+TABLET
+<img width="1919" height="915" alt="Screenshot 2025-09-26 225844" src="https://github.com/user-attachments/assets/92ed9257-3505-4858-9584-900a7edc5fa2" />
+
+
 
 REFERENCES
 1. Baker, M. (2023) The ultimate guide to starting a bakery business. Available at: https://www.forbes.com/sites/businessowners/2023/03/15/ultimate-guide-starting-a-bakery/ (Accessed: 27 August 2025).
@@ -22,6 +31,7 @@ REFERENCES
 4. Kowalski, J. (2024) Creating a digital marketing strategy for local bakeries. Small Business Trends. Available at: https://smallbiztrends.com/2024/01/digital-marketing-for-bakeries.html (Accessed: 24 August 2025).
 5. Freepik (2025) Set of fresh homemade bakery products on wooden background [image]. Available at: https://www.freepik.com/free-photo/set-fresh-homemade-bakery-products-wooden-background_1234567.htm (Accessed: 27 August 2025).
 6. The Craft Bakers Association (2023) UK bakery industry report 2023. Available at: https://www.craftbakersassociation.org.uk/industry-report-2023 (Accessed: 26 August 2025).
+
 
 
 
